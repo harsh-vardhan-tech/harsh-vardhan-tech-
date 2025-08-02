@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;B.Tech+CSE+%7C+Gyan+Vihar+University;Building+Skills+in+DSA+%26+Development" alt="Rotating Taglines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Harsh+Vardhan;Aspiring+Software+Engineer;B.Tech+CSE+%7C+Gyan+Vihar+University;Exploring+DSA+%26+Development" alt="Typing Animation"/>
 </h1>
 ---
 
