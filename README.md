@@ -1,26 +1,26 @@
-<!-- Banner / Typing Animation -->
+<!-- Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0078FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Vardhan;Aspiring+Software+Engineer;B.Tech+CSE+%7C+Gyan+Vihar+University;Building+Skills+in+DSA+%26+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Harsh+Vardhan;Aspiring+Software+Engineer;B.Tech+CSE+%7C+Gyan+Vihar+University;Exploring+DSA+%26+Development" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Tech Computer Science Student** at Gyan Vihar University, Jaipur  
-- 💻 Passionate about **Software Development & Problem Solving**  
+- 🎓 **B.Tech Computer Science Student** @ Gyan Vihar University, Jaipur  
+- 💻 Interested in **Software Development & Problem Solving**  
 - 🚀 Currently learning **DSA, Python, and Full-Stack Development**  
-- 🎯 Goal: To become a **skilled Software Engineer** who builds impactful projects  
-- 📫 **Email:** hv21082008@gmail.com  
+- 🎯 Goal: **To build impactful projects and grow as a skilled developer**  
+- 📫 Reach me at **hv21082008@gmail.com**
 
 ---
 
 ### 🛠 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -45,6 +45,13 @@
 
 ---
 
+### 🐍 Watch the Snake Eat My Contributions
+<p align="center">
+  <img src="https://github.com/harsh-vardhan-tech/harsh-vardhan-tech/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/harsh-vardhan-tech" target="_blank">
@@ -63,3 +70,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh-vardhan-tech&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
+
+---
+
+<p align="center"><b>"Learning to Code, One Bug at a Time."</b></p>
